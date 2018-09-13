@@ -1,2 +1,2 @@
 console.log("Hello Guys");
-console.error('ini error')
+console.log("Bug resolved");

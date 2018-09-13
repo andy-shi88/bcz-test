@@ -1,5 +1,3 @@
-# Issue Title
-
 ## Description
 
 brief summary of the issue
